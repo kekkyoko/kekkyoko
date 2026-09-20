@@ -1,6 +1,6 @@
 # Hola, soy Keren! 
 
-Estudiante del Instituto Tecnológico de Cuautla (TECNM)
+Estudiante del Instituto Tecnológico de Cuautla (ITCuautla - TECNM)
 
 Actualmente enfocada en Inteligencia de Negocios y Ciencia de Datos, con
 interés en análisis de datos, SQL, Python, computación en la nube y
