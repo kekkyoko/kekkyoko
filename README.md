@@ -14,7 +14,8 @@ formación académica y aprendizaje independiente.
 SQL · Python · AWS · Linux 
 
 ## Proyectos actuales
-
-- [Customer Support Chatbot](https://github.com/kekkyoko/project-01-chatbot-bedrockflows) — Proyecto guiado realizado durante el programa.
 - [Análisis y Exploración de Datos](https://github.com/kekkyo/duckdb-practica) — Material y prácticas de la materia,
   actualmente en desarrollo.
+- Proyectos guiados durante el programa Future AWS Agent Engineer por Udacity
+  - [Proyecto 1: Customer Support Chatbot](https://github.com/kekkyoko/project-01-chatbot-bedrockflows)
+  - [Proyecto 2: AI Support Agent](https://github.com/kekkyoko/project-02-customer-support-ai)
